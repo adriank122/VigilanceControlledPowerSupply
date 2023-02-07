@@ -1,0 +1,8 @@
+{
+    "countdown_time_secs": 1200,
+    "min_countdown_time_secs": 60,
+    "max_countdown_time_secs": 5940,
+    "increment_time_secs": 60,
+    "running_out_time_secs": 600,
+    "debouncing_time_secs": 0.2
+}
